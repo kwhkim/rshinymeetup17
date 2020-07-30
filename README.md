@@ -1,7 +1,7 @@
 # rshinymeetup17
 data.table tutorial
 
-* R shiny meetup에서 발표한 data.table 소개 자료입니다.
+* [R shiny meetup](https://github.com/shinykorea/Meetup)에서 발표한 data.table 소개 자료입니다.
 
 * [R로 하는 빅데이터 분석(개정판): 데이터 전처리와 시각화](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=222097118)의 10장. 데이터 테이블의 내용과 거의 동일합니다.
 
